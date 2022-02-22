@@ -66,8 +66,9 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin: 2% auto;
-  height: 25%;
+  align-items: center;
+  /* margin: 2% auto; */
+  height: 15%;
 }
 .btn button {
   background-color: #25a569;
